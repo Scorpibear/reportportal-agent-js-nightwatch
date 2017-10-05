@@ -1,0 +1,31 @@
+{
+  "name": "reportportal-agent-js-nightwatch",
+  "version": "0.1.0",
+  "description": "Report Portal agent for Nightwatch.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scorpibear/reportportal-agent-js-nightwatch.git"
+  },
+  "keywords": [
+    "Report",
+    "Portal",
+    "Agent",
+    "Reporting",
+    "Nightwatch.js",
+    "integration"
+  ],
+  "author": "Mikhail Subach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Scorpibear/reportportal-agent-js-nightwatch/issues"
+  },
+  "homepage": "https://github.com/Scorpibear/reportportal-agent-js-nightwatch#readme",
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "mocha": "^4.0.0"
+  }
+}
